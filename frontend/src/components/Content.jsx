@@ -2,7 +2,6 @@ import React, { useContext, useEffect } from 'react';
 import { AppContext } from '../context/AppContext';
 import Card from './Card';
 import { Ring } from 'react-awesome-spinners';
-import { useState, useEffect } from 'react';
 import { toast } from 'react-toastify';
 import BuyCard from './BuyCard';
 import Restock from './Restock';
